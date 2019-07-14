@@ -1,2 +1,2 @@
-# XO-TicTacToe-
+# XO_TicTacToe
 Console game
