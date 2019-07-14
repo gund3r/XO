@@ -1,4 +1,7 @@
 package Model;
 
-public class Figure {
+public enum  Figure {
+
+    X, O;
+
 }
