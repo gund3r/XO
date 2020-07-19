@@ -1,0 +1,15 @@
+controllers/WinnerController$IPointGenerator.class
+model/Game.class
+model/Exception/InvalidMoveException.class
+model/Player.class
+Main.class
+view/ConsoleView.class
+model/Exception/NoWinnerException.class
+model/Figure.class
+model/Exception/AlreadyOccupatedException.class
+model/Exception/InvalidPointException.class
+controllers/CurrentMoveController.class
+model/Field.class
+model/Exception/AbstractXOexception.class
+controllers/MoveController.class
+controllers/WinnerController.class

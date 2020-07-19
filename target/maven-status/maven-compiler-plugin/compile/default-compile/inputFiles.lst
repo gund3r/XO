@@ -1,0 +1,14 @@
+/Users/gun/IdeaProjects/XO/src/main/java/model/Player.java
+/Users/gun/IdeaProjects/XO/src/main/java/Main.java
+/Users/gun/IdeaProjects/XO/src/main/java/model/Field.java
+/Users/gun/IdeaProjects/XO/src/main/java/model/Exception/InvalidMoveException.java
+/Users/gun/IdeaProjects/XO/src/main/java/model/Exception/AlreadyOccupatedException.java
+/Users/gun/IdeaProjects/XO/src/main/java/model/Figure.java
+/Users/gun/IdeaProjects/XO/src/main/java/model/Exception/InvalidPointException.java
+/Users/gun/IdeaProjects/XO/src/main/java/controllers/CurrentMoveController.java
+/Users/gun/IdeaProjects/XO/src/main/java/model/Game.java
+/Users/gun/IdeaProjects/XO/src/main/java/controllers/WinnerController.java
+/Users/gun/IdeaProjects/XO/src/main/java/controllers/MoveController.java
+/Users/gun/IdeaProjects/XO/src/main/java/model/Exception/AbstractXOexception.java
+/Users/gun/IdeaProjects/XO/src/main/java/view/ConsoleView.java
+/Users/gun/IdeaProjects/XO/src/main/java/model/Exception/NoWinnerException.java
